@@ -1,17 +1,19 @@
 {
-    "name": "inertiajs/inertia-laravel",
+    "name": "xeader/inertia-acorn",
     "type": "library",
-    "description": "The Laravel adapter for Inertia.js.",
+    "description": "The roots/acorn adapter for Inertia.js.",
     "keywords": [
         "laravel",
+        "roots",
+        "acorn",
         "inertia"
     ],
     "license": "MIT",
     "authors": [
         {
-            "name": "Jonathan Reinink",
-            "email": "jonathan@reinink.ca",
-            "homepage": "https://reinink.ca"
+            "name": "Antonio Gatta",
+            "email": "a.gatta@xeader.com",
+            "homepage": "https://www.xeader.com"
         }
     ],
     "autoload": {
