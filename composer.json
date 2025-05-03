@@ -22,9 +22,6 @@
         },
         "files": [
             "./helpers.php"
-        ],
-        "exclude-files-from-classmap": [
-            "vendor/laravel/framework/src/Illuminate"
         ]
     },
     "autoload-dev": {
